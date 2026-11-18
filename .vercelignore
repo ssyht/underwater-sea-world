@@ -1,0 +1,9 @@
+.DS_Store
+.omc/
+.claude/
+node_modules/
+.vercel/
+VideoReference.mov
+CHECKPOINTS.md
+Prompt.md
+.env*
