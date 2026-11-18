@@ -1,0 +1,6 @@
+.DS_Store
+.omc/
+.claude/
+node_modules/
+.vercel/
+VideoReference.mov
